@@ -1,0 +1,74 @@
+<!DOCTYPE html><html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Para Camille</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f6f6f6;
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+    }
+    .container {
+      max-width: 600px;
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+      text-align: center;
+      font-size: 28px;
+    }
+    p {
+      line-height: 1.6;
+      font-size: 16px;
+    }
+    .fotos {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-top: 20px;
+    }
+    .fotos img {
+      width: 100%;
+      border-radius: 8px;
+    }
+    audio {
+      width: 100%;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Para Camille</h1>
+    <p>
+      Oi, Camille.<br><br>
+      Eu pensei bastante antes de escrever isso, mas senti que era necessário colocar em palavras tudo o que tenho guardado aqui dentro. Pode ser que você nem queira ler, pode ser que sua cabeça ainda esteja cheia, mas mesmo assim eu precisava tentar. Porque você, pra mim, vale esse esforço.<br><br>
+      Esses últimos dias não têm sido fáceis. Ficar longe de você, te ver e não poder falar, me machuca mais do que eu consigo explicar. E por mais que a gente tenha decidido dar um tempo, meu coração ainda tá aqui, firme, esperando por uma chance de entender o que a gente realmente sente.<br><br>
+      Eu gosto muito de você. Gosto do jeito que você é, do que a gente viveu juntos, das risadas, dos momentos leves. Mas ao mesmo tempo, eu preciso ser sincero: tem coisas que me afetam. E não é por mal — é só que eu sou diferente. Eu acredito que tudo pode ser resolvido no diálogo, na calma. E às vezes, sinto que a gente se perde em brigas que poderiam ser evitadas, que acabam machucando os dois.<br><br>
+      Você é jovem, cheia de energia, intensa… e isso tem sua beleza. Mas eu sou mais quieto, mais sério, gosto de conversar e entender. E talvez por isso a gente tenha batido de frente algumas vezes.<br><br>
+      Eu não escrevo isso pra te culpar, nem pra pedir desculpas de novo. Escrevo pra abrir meu coração. Porque eu ainda quero tentar. Ainda quero ver onde a gente pode chegar, se a gente se permitir crescer juntos, se ambos estiverem dispostos.<br><br>
+      Então, eu deixo essa carta como um sinal de paz, de carinho e de respeito. E se você ainda sentir vontade de tentar também, estarei aqui, de peito aberto. Mas se seu coração disser que não dá mais, eu vou entender. Vai doer, mas prefiro uma verdade do que uma dúvida eterna.<br><br>
+      Com carinho,<br>
+      Pedro
+    </p><div class="fotos">
+  <img src="/mnt/data/file-VoxoW4aXTjedEDdETD32EE" alt="Foto 1">
+  <img src="/mnt/data/file-G5A5aAkAHGdTK5M3avezJ7" alt="Foto 2">
+  <img src="/mnt/data/file-DZb8j7DSdyEoW4Q77gwi3g" alt="Foto 3">
+</div>
+
+<audio controls autoplay loop>
+  <source src="https://cdn.pixabay.com/download/audio/2023/04/02/audio_14e98ddc0d.mp3" type="audio/mp3">
+  Seu navegador não suporta áudio.
+</audio>
+
+  </div>
+</body>
+</html>
